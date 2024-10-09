@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 15px;
+}
+
+ul {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    color: rgb(161, 170, 45);
+    text-decoration: none;
+    display: block;
+}
